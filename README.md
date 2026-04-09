@@ -10,3 +10,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-2003)](https://github.com/cid-2003/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-2003)](https://github.com/cid-2003/github-readme-stats)
