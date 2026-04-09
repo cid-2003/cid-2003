@@ -9,4 +9,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-(https://github-readme-stats.vercel.app/api?username=cid-2003&)](https://github.com/cid-2003/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-2003)](https://github.com/cid-2003/github-readme-stats)
