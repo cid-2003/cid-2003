@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I’m Cid 👋<br><br><br>
+## Hi, I’m Cid 👋<br>
 <p>Developer web for PrimoCom <br/><br>I create modern websites <br/><br>Dev Backend using PHP, Laravel, Nextjs, React and more. <br/><br>The next step is to learn Python for data analysis, artificial intelligence (AI), task automation, and more. <br/><br><p/>
 
 
@@ -9,4 +9,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-2003)](https://github.com/cid-2003/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cid-2003)](https://github.com/cid-2003/github-readme-stats)
