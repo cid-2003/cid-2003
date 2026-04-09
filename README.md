@@ -9,4 +9,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cid-2003)](https://github.com/cid-2003/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ForrestKnight&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ForrestKnight's GitHub Stats" />
