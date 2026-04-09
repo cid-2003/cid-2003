@@ -8,5 +8,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ForrestKnight&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ForrestKnight's GitHub Stats" />
